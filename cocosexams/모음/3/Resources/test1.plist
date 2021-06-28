@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>walk-cycle-animation.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1455,318}</string>
+                <key>spriteSourceSize</key>
+                <string>{1455,318}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{1455,318}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>test1.png</string>
+            <key>size</key>
+            <string>{1455,318}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:03bd0b679bc55814afaabc1e36748970:5a6955cc902029eb4937eeec792e20c8:1e4243132e2cc643f6d225e7942b8f2e$</string>
+            <key>textureFileName</key>
+            <string>test1.png</string>
+        </dict>
+    </dict>
+</plist>
